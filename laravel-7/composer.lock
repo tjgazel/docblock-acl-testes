@@ -4601,16 +4601,16 @@
         },
         {
             "name": "tjgazel/laravel-docblock-acl",
-            "version": "v2.0.0",
+            "version": "v2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tjgazel/laravel-docblock-acl.git",
-                "reference": "26f7f88b8d66ea07515a2cc2a0ad2a5d4b457c82"
+                "reference": "2699a70969af5ed991b8ef136db4b379eb929350"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tjgazel/laravel-docblock-acl/zipball/26f7f88b8d66ea07515a2cc2a0ad2a5d4b457c82",
-                "reference": "26f7f88b8d66ea07515a2cc2a0ad2a5d4b457c82",
+                "url": "https://api.github.com/repos/tjgazel/laravel-docblock-acl/zipball/2699a70969af5ed991b8ef136db4b379eb929350",
+                "reference": "2699a70969af5ed991b8ef136db4b379eb929350",
                 "shasum": ""
             },
             "require": {
@@ -4663,9 +4663,9 @@
             ],
             "support": {
                 "issues": "https://github.com/tjgazel/laravel-docblock-acl/issues",
-                "source": "https://github.com/tjgazel/laravel-docblock-acl/tree/v2.0.0"
+                "source": "https://github.com/tjgazel/laravel-docblock-acl/tree/v2.0.1"
             },
-            "time": "2021-05-04T18:39:55+00:00"
+            "time": "2021-05-05T15:48:30+00:00"
         },
         {
             "name": "vlucas/phpdotenv",

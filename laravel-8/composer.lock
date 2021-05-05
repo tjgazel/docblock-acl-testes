@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "74da3cc59403fa3e8161f42ef03a0906",
+    "content-hash": "14d3bad6b59d45cf9e8149d17cf52be1",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4615,16 +4615,16 @@
         },
         {
             "name": "tjgazel/laravel-docblock-acl",
-            "version": "v3.0-RC1",
+            "version": "v3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tjgazel/laravel-docblock-acl.git",
-                "reference": "e4a10b02239a85b8ac81247b96a6f8236737d1d4"
+                "reference": "327f5ad4283e65df035fd01f38d5406e633dc6c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tjgazel/laravel-docblock-acl/zipball/e4a10b02239a85b8ac81247b96a6f8236737d1d4",
-                "reference": "e4a10b02239a85b8ac81247b96a6f8236737d1d4",
+                "url": "https://api.github.com/repos/tjgazel/laravel-docblock-acl/zipball/327f5ad4283e65df035fd01f38d5406e633dc6c9",
+                "reference": "327f5ad4283e65df035fd01f38d5406e633dc6c9",
                 "shasum": ""
             },
             "require": {
@@ -4677,9 +4677,9 @@
             ],
             "support": {
                 "issues": "https://github.com/tjgazel/laravel-docblock-acl/issues",
-                "source": "https://github.com/tjgazel/laravel-docblock-acl/tree/v3.0-RC1"
+                "source": "https://github.com/tjgazel/laravel-docblock-acl/tree/v3.0.0"
             },
-            "time": "2021-05-04T23:02:04+00:00"
+            "time": "2021-05-05T15:33:38+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
